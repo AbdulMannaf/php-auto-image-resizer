@@ -4,7 +4,7 @@ PHP library to resize any image in any aspect ratio without cropping, stretching
 
 ## Installation
 
-Download the files from [GitHub](https://github.com/AbdulMannaf/php-auto-image-resizer.git), put them to your project directory and require them into your PHP code.
+Download the files from [GitHub](https://github.com/AbdulMannaf/php-auto-image-resizer/archive/master.zip), put them to your project directory and require them into your PHP code.
 
 ```php
 require_once "path/to/file/ImageResizer.php";
